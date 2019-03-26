@@ -1,24 +1,8 @@
 # egg-direct
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Test coverage][codecov-image]][codecov-url]
-[![David deps][david-image]][david-url]
-[![Known Vulnerabilities][snyk-image]][snyk-url]
-[![npm download][download-image]][download-url]
+[![NPM version](https://badge.fury.io/js/egg-direct.svg)](http://badge.fury.io/js/egg-direct)
 
-[npm-image]: https://img.shields.io/npm/v/egg-direct.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-direct
-[travis-image]: https://img.shields.io/travis/eggjs/egg-direct.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-direct
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-direct.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-direct?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-direct.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-direct
-[snyk-image]: https://snyk.io/test/npm/egg-direct/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg-direct
-[download-image]: https://img.shields.io/npm/dm/egg-direct.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-direct
+[![npm](https://nodei.co/npm/egg-direct.png)](https://www.npmjs.com/package/egg-direct)
 
 eggjs 路由去中心化插件。
 
