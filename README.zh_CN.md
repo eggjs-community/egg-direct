@@ -22,6 +22,12 @@
 
 eggjs 路由去中心化插件。
 
+## 安装
+
+```
+$ npm install egg-direct --save
+```
+
 ## 依赖说明
 
 ### 依赖的 egg 版本
@@ -67,6 +73,10 @@ class HomeController extends Controller {
 module.exports = HomeController;
 ```
 router 参数接收一个二维数组类型的值，子数组的第一个是router的方法名，对应调用``router[method](..argv)``，后面的值表示调用参数``(...argv)``，具体传入参数，可以查看官方文档[router说明](https://eggjs.org/zh-cn/basics/router.html)。
+
+## 更多例子
+
+[examples](/examples)
 
 ## 详细配置
 
