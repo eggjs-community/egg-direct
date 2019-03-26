@@ -10,5 +10,5 @@ module.exports = {
   direct: {
     enable: true,
     package: 'egg-direct',
-  }
+  },
 };

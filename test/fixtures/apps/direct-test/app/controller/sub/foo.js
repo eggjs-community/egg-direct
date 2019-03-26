@@ -10,6 +10,10 @@ class FooController extends Controller {
   ]) {
     this.ctx.body = 'this is foo.';
   }
+
+  haha() {
+
+  }
 }
 
 module.exports = FooController;
