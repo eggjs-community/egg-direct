@@ -38,7 +38,7 @@ egg-direct 版本 | egg 2.x | egg 1.x
 
 ### 依赖的插件
 
-- egg-core
+- egg-core（一般不需要单独安装）
 
 ## 开启插件
 
