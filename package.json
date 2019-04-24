@@ -1,6 +1,6 @@
 {
   "name": "egg-direct",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Eggjs routing decentralized plugin.",
   "eggPlugin": {
     "name": "direct"
@@ -43,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-direct.git"
+    "url": "git+https://github.com/lisniuse/egg-direct.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/lisniuse/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-direct#readme",
+  "homepage": "https://github.com/lisniuse/egg-direct#readme",
   "author": "zhibing",
   "license": "MIT"
 }
